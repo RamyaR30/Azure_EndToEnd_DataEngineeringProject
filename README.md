@@ -6,6 +6,7 @@
 This project illustrates the creation of a data engineering workflow that seamlessly connects GitHub repositories with Azure services to facilitate efficient data ingestion, transformation, storage, and analytics. The primary objective was to establish a smooth pipeline resembling real-world scenarios, demonstrating proficiency in utilizing Azure's data tools effectively.
 
 *Workflow:*
+
 Data Ingestion: Establish a connection to a GitHub repository for direct data ingestion into Azure, eliminating manual file management.
                   *Tools Used: GitHub, Azure Data Factory*
 ![olympics_Az_storageacc](https://github.com/RamyaR30/Azure_EndToEnd_DataEngineeringProject/assets/80741043/2b309f88-b466-43d6-878f-535b384ad7df)
